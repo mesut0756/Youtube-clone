@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    
+}
+
+.app-top{
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    margin-left: 100px;
+    margin-top: -255px;
+    
+    padding: 5px 10px 10px 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.app-post{
+    margin-top: 250px;
+}

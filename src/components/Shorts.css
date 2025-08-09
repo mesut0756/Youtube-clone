@@ -1,0 +1,33 @@
+.shortsimg{
+    height: 300px;
+    margin-top: 30px;
+    width: 210px;
+    margin-left: 15px;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.shorts-bottom{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+
+.shorts-display{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.title{
+    font-weight: 500;
+}
+
+.more-btn{
+    cursor: pointer;
+}
+
+.more-btn:hover{
+    background-color: rgb(240, 240, 240);
+}

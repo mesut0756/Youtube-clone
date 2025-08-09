@@ -1,0 +1,31 @@
+.feed{
+    display: flex;
+    margin-left: 0px;
+    
+    margin-top: 10px;
+    
+   
+}
+
+.options{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    background-color: rgb(244, 244, 244);
+    border-radius: 5px;
+    height: 30px;
+    padding: 0px 10px 0px 10px;
+    cursor: pointer;
+
+}
+
+.options:hover{
+    background-color: rgb(233, 233, 233);
+}
+
+.options:active{
+    
+    background-color: black;
+    color: white;
+}
